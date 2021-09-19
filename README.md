@@ -1,2 +1,2 @@
-# chapter-number-2
-questions of chapter number 2
+# Semester-II
+Practice exercise of semester 2
